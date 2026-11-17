@@ -1,0 +1,17 @@
+﻿# Audio processing
+numpy==2.2.6
+sounddevice==0.5.6
+soundfile==0.14.0
+
+# Speech recognition and voice activity detection
+sherpa-onnx==2.0.1
+
+# Local language model
+llama-cpp-python==0.3.36
+
+# Text-to-speech
+piper-tts==1.8.0
+
+# Knowledge processing and retrieval
+pypdf==7.0.1
+rank-bm25==0.2.2
