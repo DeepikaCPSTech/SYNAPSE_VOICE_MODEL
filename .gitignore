@@ -1,0 +1,38 @@
+# Python environment
+venv/
+.venv/
+
+# AI models
+models/
+*.gguf
+*.onnx
+*.tar.bz2
+
+# Knowledge data and databases
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and temporary files
+logs/
+__pycache__/
+*.py[cod]
+*.log
+*.wav
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
